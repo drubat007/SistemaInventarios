@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\30855e2a-c4a6-40c0-87e5-4b1741ef1228.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\30855e2a-c4a6-40c0-87e5-4b1741ef1228.jpg"
+    },
+    {
+      "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\4b96cb90-df9c-4696-955b-6f76897af368.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\4b96cb90-df9c-4696-955b-6f76897af368.jpg"
+    },
+    {
+      "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d3c0de73-aece-479f-84ed-ad0072a70e5f.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\d3c0de73-aece-479f-84ed-ad0072a70e5f.jpg"
+    },
+    {
       "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\Bodega.js",
       "PackagePath": "staticwebassets\\js\\Bodega.js"
     },
@@ -23,6 +35,10 @@
     {
       "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

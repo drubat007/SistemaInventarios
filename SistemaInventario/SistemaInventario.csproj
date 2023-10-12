@@ -13,6 +13,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="7.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.12" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.12" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
@@ -26,6 +27,10 @@
     <ProjectReference Include="..\SistemaInventario.AccesoDatos\SistemaInventario.AccesoDatos.csproj" />
     <ProjectReference Include="..\SistemaInventario.Modelos\SistemaInventario.Modelos.csproj" />
     <ProjectReference Include="..\SistemaInventario.Utilidades\SistemaInventario.Utilidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\producto\" />
   </ItemGroup>
 
 </Project>

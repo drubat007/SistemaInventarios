@@ -8,5 +8,6 @@ namespace SistemaInventario.Utilidades
 {
     public static class DS
     {
+        public const string ImagenRuta = @"\imagenes\producto\";
     }
 }
