@@ -29,6 +29,8 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 
         IOrdenDetalleRepositorio OrdenDetalle { get; }
 
+        ICompaniaRepositorio Compania { get; }
+
         Task Guardar();
     }
 }

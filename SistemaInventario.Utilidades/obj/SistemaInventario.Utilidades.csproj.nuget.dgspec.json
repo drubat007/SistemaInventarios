@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[7.0.12, )"
             },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            },
             "jQWidgets.AspNetCore.Mvc.Bootstrap.TagHelpers": {
               "target": "Package",
               "version": "[2.0.0, )"

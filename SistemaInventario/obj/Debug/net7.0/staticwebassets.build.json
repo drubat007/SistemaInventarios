@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WLmO+d9EVHLve3ukkbXdbhBio2I+M9ZhXlSlu9oF+C8=",
+  "Hash": "jbqwH5c3HO5q0P25cgLURQ4U6T4SNT44jd9DtSAEJkw=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\confirmacion.jpg",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "imagenes/confirmacion.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\confirmacion.jpg"
     },
     {
       "Identity": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\phoneexpress.ico",
