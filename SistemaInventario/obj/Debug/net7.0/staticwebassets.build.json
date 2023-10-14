@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RD7lA75XXK/R5HMmYYPONL0hpfHkFL8ib985uCb+oKQ=",
+  "Hash": "WLmO+d9EVHLve3ukkbXdbhBio2I+M9ZhXlSlu9oF+C8=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1139,12 +1139,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\phonexpress.jpg"
     },
     {
-      "Identity": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\79bec88b-2d4a-4c1c-8964-3aec0de3e006.jpg",
+      "Identity": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\70cbfeb6-fcc9-475f-960a-670b5169fbda.png",
       "SourceId": "SistemaInventario",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\",
       "BasePath": "_content/SistemaInventario",
-      "RelativePath": "imagenes/producto/79bec88b-2d4a-4c1c-8964-3aec0de3e006.jpg",
+      "RelativePath": "imagenes/producto/70cbfeb6-fcc9-475f-960a-670b5169fbda.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,7 +1153,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\79bec88b-2d4a-4c1c-8964-3aec0de3e006.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\70cbfeb6-fcc9-475f-960a-670b5169fbda.png"
     },
     {
       "Identity": "C:\\Users\\algt0\\OneDrive\\PIA\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d3c0de73-aece-479f-84ed-ad0072a70e5f.jpg",
